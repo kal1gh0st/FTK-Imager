@@ -45,6 +45,3 @@ The FTK Imager is a simple but concise tool. It saves an image of a hard disk in
 # Exemple :
   ![alt tag](https://github.com/MrMugiwara/FTK-imager-OSX/blob/master/ftk.png)
 
-By Soufiane Boussali<br>
-Vendor : AccessData<br>
- ![alt tag](https://github.com/MrMugiwara/FTK-imager-OSX/blob/master/accessdata.gif)
